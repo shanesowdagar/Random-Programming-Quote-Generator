@@ -1,5 +1,5 @@
-Random Programming Quote Generator
+# Random Programming Quote Generator
 
--Using Skeleton CSS
--JS Fetch API
--Random Quotes from https://programming-quotes-api.herokuapp.com/
+* -Using Skeleton CSS
+* -JS Fetch API
+* -Random Quotes from https://programming-quotes-api.herokuapp.com/
